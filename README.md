@@ -1,2 +1,2 @@
-Build Trigger
+Build Trigger - test
 GitHub -> Jenkins (Poll SCM)
